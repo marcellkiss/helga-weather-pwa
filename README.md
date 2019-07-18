@@ -1,4 +1,4 @@
-# HHelga Weather PWA - Progressive Web App Example
+# Helga Weather PWA - Progressive Web App Example
 
 The example is based on the
 [Your First Progressive Web App][codelab] codelab.
